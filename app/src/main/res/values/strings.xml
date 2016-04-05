@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">r_movie_a.k_abhi</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="most_popular" translatable="false">Most_Poppular</string>
+    <string name="Refresh" translatable="false">Refresh</string>
+    <string name="heighest_rated" translatable="false">Heightest_Rated</string>
+
+</resources>
